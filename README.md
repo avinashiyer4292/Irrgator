@@ -2,7 +2,7 @@
 <b><i><u>Irrigator</u></i></b>: <br/>
 
 <b><i><u>PROJECT DESCRIPTION</u></i></b>: <br/>
-Irrigator provides farmers with a dashboard detailing the map of the farm they own and dividing them into zones based on crop type, water required for irrigation and so on. We used John Deere's Management Zones and Field Connect dataset to come up with an algorithm that determines which zone requires more attention by the farmer.
+Irrigator provides farmers with a dashboard detailing the map of the farm they own and dividing them into zones based on crop type, water required for irrigation and so on. We used John Deere's Field Connect dataset to come up with an algorithm that determines which zone requires more attention by the farmer.
 
 <b><i><u>PROJECT FEATURES</u></i></b>: <br/>
 We used HTML5, CSS3, Javascript, and Google maps to display the farm lands.
